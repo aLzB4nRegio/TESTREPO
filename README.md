@@ -2,4 +2,4 @@
 ## Editando el archivo
 
 
-Laboractorios y archivos de pruebas
+Laboratorios y archivos de pruebas
